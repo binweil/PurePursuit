@@ -5,6 +5,9 @@
 
 ### Prerequisites
 ````
+OpenCV 3.4
 ````
 
-### Installing
+### Running the tests
+1. Go to the main.py
+2. Run the scripts
