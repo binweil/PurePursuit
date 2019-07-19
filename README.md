@@ -6,6 +6,8 @@
 ### Prerequisites
 ````
 OpenCV 3.4
+Numpy
+Math
 ````
 
 ### Running the tests
